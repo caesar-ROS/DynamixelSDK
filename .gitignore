@@ -1,0 +1,5 @@
+# (위 "공통 .gitignore" 블록 전체를 여기에 붙여넣기)
+# (SDK는 bin/lib/obj가 자주 생기므로 필요시 아래 3줄 추가)
+# bin/
+# lib/
+# obj/
